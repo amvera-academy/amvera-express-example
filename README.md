@@ -15,6 +15,8 @@
 - `POST /api/items`
 - `DELETE /api/items/{id}`
 
+<img width="804" height="855" alt="image" src="https://github.com/user-attachments/assets/0cf9fd37-3fc6-4f78-9b18-a4b7d3f89c98" />
+
 Все запросы можно выполнить на главной странице.
 
 ## Как правильно сохранять файлы
